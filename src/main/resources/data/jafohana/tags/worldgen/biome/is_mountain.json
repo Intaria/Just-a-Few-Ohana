@@ -8,19 +8,15 @@
       "required": false
     },
     {
-      "id": "terralith:basalt_cliffs",
+      "id": "#terralith:cliffs",
       "required": false
     },
     {
-      "id": "terralith:granite_cliffs",
+      "id": "meadow:meadow_forest",
       "required": false
     },
     {
-      "id": "terralith:yosemite_cliffs",
-      "required": false
-    },
-    {
-      "id": "terralith:white_cliffs",
+      "id": "meadow:meadow_clearing",
       "required": false
     }
   ]

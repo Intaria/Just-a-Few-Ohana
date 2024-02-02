@@ -21,6 +21,14 @@
     {
       "id": "graveyard_biomes:eroded_haunted_forest",
       "required": false
+    },
+    {
+      "id": "meadow:meadow_forest",
+      "required": false
+    },
+    {
+      "id": "spookybats:christmas_forest",
+      "required": false
     }
   ]
 }

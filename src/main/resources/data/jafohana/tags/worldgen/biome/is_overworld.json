@@ -3,10 +3,6 @@
   "values": [
     "#minecraft:is_overworld",
     {
-      "id": "#forge:is_overworld",
-      "required": false
-    },
-    {
       "id": "graveyard_biomes:ancient_dead_coral_reef",
       "required": false
     },
@@ -28,14 +24,6 @@
     },
     {
       "id": "hexerei:willow_swamp",
-      "required": false
-    },
-    {
-      "id": "wildlands:bayou",
-      "required": false
-    },
-    {
-      "id": "wildlands:burnt_forest",
       "required": false
     },
     {
@@ -68,6 +56,50 @@
     },
     {
       "id": "jellyfishing:jellyfish_fields",
+      "required": false
+    },
+    {
+      "id": "meadow:meadow_forest",
+      "required": false
+    },
+    {
+      "id": "meadow:meadow_clearing",
+      "required": false
+    },
+    {
+      "id": "eco:floating_river",
+      "required": false
+    },
+    {
+      "id": "mysticsbiomes:autumnal_grove",
+      "required": false
+    },
+    {
+      "id": "mysticsbiomes:bamboo_blossom_forest",
+      "required": false
+    },
+    {
+      "id": "mysticsbiomes:lavender_meadow",
+      "required": false
+    },
+    {
+      "id": "mysticsbiomes:strawberry_fields",
+      "required": false
+    },
+    {
+      "id": "snifferplus:timeless_grotto",
+      "required": false
+    },
+    {
+      "id": "spawn:ant_gardens",
+      "required": false
+    },
+    {
+      "id": "spookybats:christmas_forest",
+      "required": false
+    },
+    {
+      "id": "spookybats:spooky_oak_forest",
       "required": false
     }
   ]

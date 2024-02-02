@@ -1,11 +1,6 @@
 {
   "replace": false,
   "values": [
-    "jafohana:orange_marigold",
-    "jafohana:yellow_marigold",
-    "jafohana:gloriosa",
-    "jafohana:black_bat_flower",
-    "jafohana:fasciated_dandelion",
-    "jafohana:fasciated_oxeye_daisy"
+    "#jafohana:tall_flowers"
   ]
 }
