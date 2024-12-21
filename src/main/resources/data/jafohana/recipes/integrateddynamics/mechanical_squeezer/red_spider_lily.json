@@ -3,6 +3,13 @@
     {
       "type": "forge:mod_loaded",
       "modid": "integrateddynamics"
+    },
+    {
+      "type": "forge:not",
+      "value": {
+        "type": "forge:mod_loaded",
+        "modid": "evilcraft"
+      }
     }
   ],
   "type": "integrateddynamics:mechanical_squeezer",

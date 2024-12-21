@@ -1,0 +1,14 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "refurbished_furniture"
+    }
+  ],
+  "type": "refurbished_furniture:cutting_board_slicing",
+  "count": 3,
+  "ingredient": {
+    "item": "jafohana:yellow_marigold"
+  },
+  "result": "minecraft:yellow_dye"
+}

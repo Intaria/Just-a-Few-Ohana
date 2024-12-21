@@ -1,0 +1,25 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "immersiveengineering"
+    }
+  ],
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "jafohana:milk_vetch"
+  },
+  "render": {
+    "type": "generic",
+    "block": "jafohana:milk_vetch"
+  },
+  "results": [
+    {
+      "item": "jafohana:milk_vetch"
+    }
+  ],
+  "soil": {
+    "item": "minecraft:dirt"
+  },
+  "time": 480
+}

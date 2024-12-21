@@ -1,0 +1,25 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "immersiveengineering"
+    }
+  ],
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "jafohana:black_bat_flower"
+  },
+  "render": {
+    "type": "generic",
+    "block": "jafohana:black_bat_flower"
+  },
+  "results": [
+    {
+      "item": "jafohana:black_bat_flower"
+    }
+  ],
+  "soil": {
+    "item": "minecraft:dirt"
+  },
+  "time": 480
+}

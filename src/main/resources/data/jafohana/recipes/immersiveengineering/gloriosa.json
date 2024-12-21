@@ -1,0 +1,25 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "immersiveengineering"
+    }
+  ],
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "jafohana:gloriosa"
+  },
+  "render": {
+    "type": "generic",
+    "block": "jafohana:gloriosa"
+  },
+  "results": [
+    {
+      "item": "jafohana:gloriosa"
+    }
+  ],
+  "soil": {
+    "item": "minecraft:dirt"
+  },
+  "time": 480
+}

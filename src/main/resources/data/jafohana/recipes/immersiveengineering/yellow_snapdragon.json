@@ -1,0 +1,25 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "immersiveengineering"
+    }
+  ],
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "jafohana:yellow_snapdragon"
+  },
+  "render": {
+    "type": "generic",
+    "block": "jafohana:yellow_snapdragon"
+  },
+  "results": [
+    {
+      "item": "jafohana:yellow_snapdragon"
+    }
+  ],
+  "soil": {
+    "item": "minecraft:dirt"
+  },
+  "time": 480
+}

@@ -1,0 +1,25 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "immersiveengineering"
+    }
+  ],
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "jafohana:bluebell"
+  },
+  "render": {
+    "type": "generic",
+    "block": "jafohana:bluebell"
+  },
+  "results": [
+    {
+      "item": "jafohana:bluebell"
+    }
+  ],
+  "soil": {
+    "item": "minecraft:dirt"
+  },
+  "time": 480
+}

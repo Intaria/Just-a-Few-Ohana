@@ -1,0 +1,17 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "extradelight"
+    }
+  ],
+  "type": "extradelight:mortar",
+  "grinds": 4,
+  "ingredient": {
+    "item": "jafohana:orange_marigold"
+  },
+  "result": {
+    "count": 3,
+    "item": "minecraft:orange_dye"
+  }
+}

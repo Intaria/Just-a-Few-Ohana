@@ -6,10 +6,6 @@
         "name": "#jafohana:is_overworld"
       },
       {
-        "name": "minecraft:meadow",
-        "negate": true
-      },
-      {
         "name": "#jafohana:is_savanna",
         "negate": true
       },

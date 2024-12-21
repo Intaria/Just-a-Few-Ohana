@@ -1,0 +1,17 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "extradelight"
+    }
+  ],
+  "type": "extradelight:mortar",
+  "grinds": 4,
+  "ingredient": {
+    "item": "jafohana:brazilian_plume"
+  },
+  "result": {
+    "count": 3,
+    "item": "minecraft:pink_dye"
+  }
+}

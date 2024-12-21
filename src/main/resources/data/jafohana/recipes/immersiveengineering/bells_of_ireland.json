@@ -1,0 +1,25 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "immersiveengineering"
+    }
+  ],
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "jafohana:bells_of_ireland"
+  },
+  "render": {
+    "type": "generic",
+    "block": "jafohana:bells_of_ireland"
+  },
+  "results": [
+    {
+      "item": "jafohana:bells_of_ireland"
+    }
+  ],
+  "soil": {
+    "item": "minecraft:dirt"
+  },
+  "time": 480
+}

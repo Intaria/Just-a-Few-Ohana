@@ -1,0 +1,25 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "immersiveengineering"
+    }
+  ],
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "jafohana:black_tulip"
+  },
+  "render": {
+    "type": "generic",
+    "block": "jafohana:black_tulip"
+  },
+  "results": [
+    {
+      "item": "jafohana:black_tulip"
+    }
+  ],
+  "soil": {
+    "item": "minecraft:dirt"
+  },
+  "time": 480
+}

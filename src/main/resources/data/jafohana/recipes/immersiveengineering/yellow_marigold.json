@@ -1,0 +1,25 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "immersiveengineering"
+    }
+  ],
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "jafohana:yellow_marigold"
+  },
+  "render": {
+    "type": "generic",
+    "block": "jafohana:yellow_marigold"
+  },
+  "results": [
+    {
+      "item": "jafohana:yellow_marigold"
+    }
+  ],
+  "soil": {
+    "item": "minecraft:dirt"
+  },
+  "time": 480
+}

@@ -1,0 +1,25 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "immersiveengineering"
+    }
+  ],
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "jafohana:blood_red_iris"
+  },
+  "render": {
+    "type": "generic",
+    "block": "jafohana:blood_red_iris"
+  },
+  "results": [
+    {
+      "item": "jafohana:blood_red_iris"
+    }
+  ],
+  "soil": {
+    "item": "minecraft:dirt"
+  },
+  "time": 480
+}

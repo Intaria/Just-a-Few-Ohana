@@ -1,0 +1,25 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "immersiveengineering"
+    }
+  ],
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "jafohana:bird_of_paradise"
+  },
+  "render": {
+    "type": "generic",
+    "block": "jafohana:bird_of_paradise"
+  },
+  "results": [
+    {
+      "item": "jafohana:bird_of_paradise"
+    }
+  ],
+  "soil": {
+    "item": "minecraft:dirt"
+  },
+  "time": 480
+}

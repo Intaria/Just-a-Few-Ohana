@@ -8,6 +8,14 @@
     {
       "id": "biox:glacial_caves",
       "required": false
+    },
+    {
+      "id": "spookybats:christmas_forest",
+      "required": false
+    },
+    {
+      "id": "excessive_building:snowy_maple_forest",
+      "required": false
     }
   ]
 }

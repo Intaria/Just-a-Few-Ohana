@@ -1,0 +1,28 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "immersiveengineering"
+    }
+  ],
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "jafohana:fasciated_oxeye_daisy"
+  },
+  "render": {
+    "type": "generic",
+    "block": "jafohana:fasciated_oxeye_daisy"
+  },
+  "results": [
+    {
+      "item": "minecraft:oxeye_daisy"
+    },
+    {
+      "item": "jafohana:fasciated_oxeye_daisy"
+    }
+  ],
+  "soil": {
+    "item": "minecraft:dirt"
+  },
+  "time": 1200
+}

@@ -10,6 +10,10 @@
       "required": false
     },
     {
+      "id": "#forge:is_grassland",
+      "required": false
+    },
+    {
       "id": "terralith:blooming_plateau",
       "required": false
     },

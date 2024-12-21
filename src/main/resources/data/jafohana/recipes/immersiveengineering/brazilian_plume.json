@@ -1,0 +1,25 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "immersiveengineering"
+    }
+  ],
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "jafohana:brazilian_plume"
+  },
+  "render": {
+    "type": "generic",
+    "block": "jafohana:brazilian_plume"
+  },
+  "results": [
+    {
+      "item": "jafohana:brazilian_plume"
+    }
+  ],
+  "soil": {
+    "item": "minecraft:dirt"
+  },
+  "time": 480
+}

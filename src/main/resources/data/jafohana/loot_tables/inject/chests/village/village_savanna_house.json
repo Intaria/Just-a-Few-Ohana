@@ -54,6 +54,21 @@
         },
         {
           "type": "minecraft:item",
+          "functions": [
+            {
+              "add": false,
+              "count": {
+                "type": "minecraft:uniform",
+                "max": 3.0,
+                "min": 1.0
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "jafohana:bells_of_ireland"
+        },
+        {
+          "type": "minecraft:item",
           "name": "jafohana:orange_marigold"
         },
         {
@@ -62,7 +77,7 @@
         },
         {
           "type": "minecraft:empty",
-          "weight": 8
+          "weight": 7
         }
       ],
       "rolls": {

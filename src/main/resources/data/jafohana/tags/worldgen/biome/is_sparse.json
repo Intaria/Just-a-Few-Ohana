@@ -1,6 +1,7 @@
 {
   "replace": false,
   "values": [
+    "minecraft:sparse_jungle",
     {
       "id": "#forge:is_sparse",
       "required": false

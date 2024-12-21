@@ -1,0 +1,14 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "refurbished_furniture"
+    }
+  ],
+  "type": "refurbished_furniture:cutting_board_slicing",
+  "count": 2,
+  "ingredient": {
+    "item": "jafohana:dayflower"
+  },
+  "result": "minecraft:blue_dye"
+}
